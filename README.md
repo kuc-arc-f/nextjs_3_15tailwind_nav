@@ -6,7 +6,7 @@
 
  date    : 2021/05/04
 
- update  :
+ update  : 2021/05/05
 
 ***
 ### Summary
@@ -30,7 +30,11 @@ yarn dev
 https://cms-kuc-jamstack-ex16.netlify.app/
 
 ***
-### Related:
+### Blog:
+
+* tailwindcssで、Navigation階層化メニュー検討など
+
+https://zenn.dev/knaka0209/articles/a45a5de990a740
 
 ***
 
